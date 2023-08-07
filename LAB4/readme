@@ -1,0 +1,26 @@
+HOW TO COMPILE ?
+    first open two terminals one for running  the server programme and another for running the client programme
+    first run the server programme by the following command
+        make run1
+    second run the client programme by the following command
+        make run2  
+
+    and finally test the programme 
+
+
+Port Number in use ?
+    I am using  the 
+    server address port as : ("127.0.0.1", 20001)
+
+
+# HEADER:
+
+# NAME: M.KARTHIK
+# ROLL NO: CS20B048
+# COURSE: CS3205 JAN 2023 SEMISTER
+# LAB NUMBER : 4
+# DATE OF SUBMISSION : 05-04-2023
+# I confirm that the source file is entirely written by me without resorting to any dishonest means
+# WEIBISTES that is used : i didn't used any wibesites i have done all by my own
+
+

@@ -1,0 +1,15 @@
+#NAME               : M.KARHIK
+#Roll Number        : CS20B048
+#Course             : CS3205 Jan. 2023 semister
+#Lab number         : 2
+#Date of submission : 04-03-2023
+#I confirm that the source file is entirely written by me
+#without resorting to any dishonest means.
+#website(s) : i didn't took the help of any website i have written on my own
+
+Experience:
+    from this assignment i have learned  and understood fully about how
+    the communication is working in out daily life and the steps involved in them
+
+feedback: 
+    This is very helpfull for our understanding thankyou  

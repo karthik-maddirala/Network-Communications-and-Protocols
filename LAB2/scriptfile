@@ -1,0 +1,16 @@
+Script started on 2023-03-04 22:15:05+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;karthik@LAPTOP-UK10GSOM: ~/sidda/sem6/CS3205/LAB2[01;32mkarthik@LAPTOP-UK10GSOM[00m:[01;34m~/sidda/sem6/CS3205/LAB2[00m$ make
+[?2004lpython3 Q1.py
+Enter the server name: www.bank.com
+DNS Mapping :  202.15.5.1
+Enter the server name: www.store.com
+DNS Mapping :  143.11.5.21
+Enter the server name: www.mynah.edu
+DNS Mapping :  198.167.5.1
+Enter the server name: ftp.mynah.edu
+DNS Mapping :  198.167.5.3
+Enter the server name: bye
+[?2004h]0;karthik@LAPTOP-UK10GSOM: ~/sidda/sem6/CS3205/LAB2[01;32mkarthik@LAPTOP-UK10GSOM[00m:[01;34m~/sidda/sem6/CS3205/LAB2[00m$ exit
+[?2004lexit
+
+Script done on 2023-03-04 22:16:28+05:30 [COMMAND_EXIT_CODE="0"]

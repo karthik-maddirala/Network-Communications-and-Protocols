@@ -1,0 +1,35 @@
+This code is  about OSPF protocol :
+    That is sending the routing information to all the routers
+
+How i have implemented the code?
+    For every router in have created four threds
+    1 for sending the hello packets, hello reply packets
+    2 for recieving the hello reply packets
+    3 for sending the LSA packets
+    4 for creating the routing Table
+
+    i have created the threads because all shoudl run paralley that's why 
+    4 threads are used for each router
+
+after some time lets say 42 secods i am sleeping sice to wait for the 
+updating of the routing Table ( 2 times ) and then exit out of the programme
+
+COMMENT:
+    This is very useful assignment 
+    
+    from this assignment i have learned that how the networks works and how the packets
+    are transformed in the networks
+    
+    Based on every situation the router builds its correspoing routing table and sends the
+    packet to the Destination
+
+
+# HEADER:
+
+# NAME: M.KARTHIK
+# ROLL NO: CS20B048
+# COURSE: CS3205 JAN 2023 SEMISTER
+# LAB NUMBER : 5
+# DATE OF SUBMISSION : 28-04-2023
+# I confirm that the source file is entirely written by me without resorting to any dishonest means
+# WEIBISTES that is used : i didn't used any wibesites i have done all by my own    

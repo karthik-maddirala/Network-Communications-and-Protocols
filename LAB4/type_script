@@ -1,0 +1,111 @@
+Script started on 2023-04-05 23:21:43+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="72" LINES="34"]
+[?2004h]0;karthik@LAPTOP-UK10GSOM: ~/sidda/sem6/CS3205/LAB4[01;32mkarthik@LAPTOP-UK10GSOM[00m:[01;34m~/sidda/sem6/CS3205/LAB4[00m$ make run2
+[?2004lpython3 client.py -d -l 512 -r 10 -f 10 -w 5 -n 100 -s 127.0.0.1 -p 20001
+PACKET_GEN_RATE:  10
+PACKET_LENGTH:  512
+Retransmission Ratio:  1.0863095238095237
+Average RTT value for ALL Acknowledged Packets:  9.20508589063372
+seq#: 0 , Time Generated: 1680717135.041311, RTT: 0,   Number of Attempts: 1
+seq#: 1 , Time Generated: 1680717135.143391, RTT: 43.05839538574219,   Number of Attempts: 1
+seq#: 2 , Time Generated: 1680717135.1434126, RTT: 43.05839538574219,   Number of Attempts: 1
+seq#: 3 , Time Generated: 1680717135.345345, RTT: 23.01931381225586,   Number of Attempts: 1
+seq#: 4 , Time Generated: 1680717135.3453548, RTT: 23.01931381225586,   Number of Attempts: 1
+seq#: 5 , Time Generated: 1680717135.5469515, RTT: 16.220410664876304,   Number of Attempts: 1
+seq#: 6 , Time Generated: 1680717135.5469666, RTT: 16.220410664876304,   Number of Attempts: 1
+seq#: 7 , Time Generated: 1680717135.7485583, RTT: 13.071298599243164,   Number of Attempts: 1
+seq#: 8 , Time Generated: 1680717135.748576, RTT: 13.071298599243164,   Number of Attempts: 1
+seq#: 9 , Time Generated: 1680717135.9505303, RTT: 11.048316955566406,   Number of Attempts: 1
+seq#: 10 , Time Generated: 1680717136.0520332, RTT: 10.291735331217449,   Number of Attempts: 1
+seq#: 11 , Time Generated: 1680717136.0520494, RTT: 10.291735331217449,   Number of Attempts: 1
+seq#: 12 , Time Generated: 1680717136.2538643, RTT: 9.512901306152344,   Number of Attempts: 1
+seq#: 13 , Time Generated: 1680717136.2538896, RTT: 9.512901306152344,   Number of Attempts: 1
+seq#: 14 , Time Generated: 1680717136.4559057, RTT: 8.985400199890137,   Number of Attempts: 1
+seq#: 15 , Time Generated: 1680717136.4559178, RTT: 8.985400199890137,   Number of Attempts: 1
+seq#: 16 , Time Generated: 1680717136.6576798, RTT: 8.347299363878038,   Number of Attempts: 1
+seq#: 17 , Time Generated: 1680717136.6576912, RTT: 8.347299363878038,   Number of Attempts: 1
+seq#: 18 , Time Generated: 1680717136.8595984, RTT: 7.812976837158203,   Number of Attempts: 1
+seq#: 19 , Time Generated: 1680717136.8596165, RTT: 7.812976837158203,   Number of Attempts: 1
+seq#: 20 , Time Generated: 1680717137.0616586, RTT: 7.566538724032315,   Number of Attempts: 1
+seq#: 21 , Time Generated: 1680717137.06168, RTT: 7.566538724032315,   Number of Attempts: 1
+seq#: 22 , Time Generated: 1680717137.2639363, RTT: 7.3273976643880205,   Number of Attempts: 1
+seq#: 23 , Time Generated: 1680717137.2639563, RTT: 7.3273976643880205,   Number of Attempts: 1
+seq#: 24 , Time Generated: 1680717137.466448, RTT: 7.1433874276968155,   Number of Attempts: 1
+seq#: 25 , Time Generated: 1680717137.4664571, RTT: 7.1433874276968155,   Number of Attempts: 1
+seq#: 26 , Time Generated: 1680717137.6683307, RTT: 6.820474352155412,   Number of Attempts: 1
+seq#: 27 , Time Generated: 1680717137.6683428, RTT: 6.820474352155412,   Number of Attempts: 1
+seq#: 28 , Time Generated: 1680717137.8702254, RTT: 6.542205810546874,   Number of Attempts: 1
+seq#: 29 , Time Generated: 1680717137.8702376, RTT: 6.542205810546874,   Number of Attempts: 1
+seq#: 30 , Time Generated: 1680717138.0720997, RTT: 6.343424320220947,   Number of Attempts: 1
+seq#: 31 , Time Generated: 1680717138.0721252, RTT: 6.343424320220947,   Number of Attempts: 1
+seq#: 32 , Time Generated: 1680717138.2741487, RTT: 6.2928480260512405,   Number of Attempts: 1
+seq#: 33 , Time Generated: 1680717138.3754873, RTT: 6.202856699625651,   Number of Attempts: 1
+seq#: 34 , Time Generated: 1680717138.3755014, RTT: 6.202856699625651,   Number of Attempts: 1
+seq#: 35 , Time Generated: 1680717138.5780728, RTT: 6.087202774850946,   Number of Attempts: 1
+seq#: 36 , Time Generated: 1680717138.5780845, RTT: 6.087202774850946,   Number of Attempts: 1
+seq#: 37 , Time Generated: 1680717138.7798085, RTT: 5.915164947509766,   Number of Attempts: 1
+seq#: 38 , Time Generated: 1680717138.7798202, RTT: 5.781082879929316,   Number of Attempts: 1
+seq#: 39 , Time Generated: 1680717138.9815748, RTT: 5.781082879929316,   Number of Attempts: 1
+seq#: 40 , Time Generated: 1680717139.0831327, RTT: 5.839087746360085,   Number of Attempts: 1
+seq#: 41 , Time Generated: 1680717139.0831604, RTT: 5.839087746360085,   Number of Attempts: 1
+seq#: 42 , Time Generated: 1680717139.2851067, RTT: 5.814303522524627,   Number of Attempts: 1
+seq#: 43 , Time Generated: 1680717139.2851195, RTT: 5.814303522524627,   Number of Attempts: 1
+seq#: 44 , Time Generated: 1680717139.487527, RTT: 5.7220458984375,   Number of Attempts: 1
+seq#: 45 , Time Generated: 1680717139.4875362, RTT: 5.7220458984375,   Number of Attempts: 1
+seq#: 46 , Time Generated: 1680717139.689396, RTT: 5.581855773925781,   Number of Attempts: 1
+seq#: 47 , Time Generated: 1680717139.6894152, RTT: 7.129632509671725,   Number of Attempts: 1
+seq#: 48 , Time Generated: 1680717139.8914719, RTT: 7.129632509671725,   Number of Attempts: 1
+seq#: 49 , Time Generated: 1680717139.9929707, RTT: 6.981249208803531,   Number of Attempts: 1
+seq#: 50 , Time Generated: 1680717139.9929914, RTT: 6.981249208803531,   Number of Attempts: 1
+seq#: 51 , Time Generated: 1680717140.195109, RTT: 7.0103577205113,   Number of Attempts: 1
+seq#: 52 , Time Generated: 1680717140.1951191, RTT: 7.0103577205113,   Number of Attempts: 1
+seq#: 53 , Time Generated: 1680717140.397032, RTT: 6.868921477219154,   Number of Attempts: 1
+seq#: 54 , Time Generated: 1680717140.3970437, RTT: 6.868921477219154,   Number of Attempts: 1
+seq#: 55 , Time Generated: 1680717140.5989757, RTT: 6.740887959798178,   Number of Attempts: 1
+seq#: 56 , Time Generated: 1680717140.598988, RTT: 6.650340172552293,   Number of Attempts: 1
+seq#: 57 , Time Generated: 1680717140.8007195, RTT: 6.650340172552293,   Number of Attempts: 1
+seq#: 58 , Time Generated: 1680717140.9015899, RTT: 6.539374589920044,   Number of Attempts: 1
+seq#: 59 , Time Generated: 1680717140.9015956, RTT: 6.539374589920044,   Number of Attempts: 1
+seq#: 60 , Time Generated: 1680717141.103658, RTT: 6.382393114494555,   Number of Attempts: 1
+seq#: 61 , Time Generated: 1680717141.1036751, RTT: 6.382393114494555,   Number of Attempts: 1
+seq#: 62 , Time Generated: 1680717141.3059633, RTT: 6.367178524241728,   Number of Attempts: 1
+seq#: 63 , Time Generated: 1680717141.3059778, RTT: 6.367178524241728,   Number of Attempts: 1
+seq#: 64 , Time Generated: 1680717141.5082395, RTT: 6.301062447684152,   Number of Attempts: 1
+seq#: 65 , Time Generated: 1680717141.5082476, RTT: 6.301062447684152,   Number of Attempts: 1
+seq#: 66 , Time Generated: 1680717141.710357, RTT: 6.192260318332249,   Number of Attempts: 1
+seq#: 67 , Time Generated: 1680717141.7103696, RTT: 6.097716254156989,   Number of Attempts: 1
+seq#: 68 , Time Generated: 1680717141.9120839, RTT: 6.097716254156989,   Number of Attempts: 1
+seq#: 69 , Time Generated: 1680717142.0134459, RTT: 6.023206208881579,   Number of Attempts: 1
+seq#: 70 , Time Generated: 1680717142.013457, RTT: 6.023206208881579,   Number of Attempts: 1
+seq#: 71 , Time Generated: 1680717142.2157292, RTT: 5.954351180639023,   Number of Attempts: 1
+seq#: 72 , Time Generated: 1680717142.2157447, RTT: 5.954351180639023,   Number of Attempts: 1
+seq#: 73 , Time Generated: 1680717142.4176667, RTT: 5.913972854614258,   Number of Attempts: 1
+seq#: 74 , Time Generated: 1680717142.4176779, RTT: 5.913972854614258,   Number of Attempts: 1
+seq#: 75 , Time Generated: 1680717142.6197379, RTT: 5.854048380037633,   Number of Attempts: 1
+seq#: 76 , Time Generated: 1680717142.6197557, RTT: 5.854048380037633,   Number of Attempts: 1
+seq#: 77 , Time Generated: 1680717142.821956, RTT: 5.821954636346726,   Number of Attempts: 1
+seq#: 78 , Time Generated: 1680717142.82197, RTT: 5.821954636346726,   Number of Attempts: 1
+seq#: 79 , Time Generated: 1680717143.02397, RTT: 5.784700083178143,   Number of Attempts: 1
+seq#: 80 , Time Generated: 1680717143.1255507, RTT: 5.830417979847301,   Number of Attempts: 1
+seq#: 81 , Time Generated: 1680717143.1255686, RTT: 5.830417979847301,   Number of Attempts: 1
+seq#: 82 , Time Generated: 1680717143.3275642, RTT: 5.812644958496094,   Number of Attempts: 1
+seq#: 83 , Time Generated: 1680717143.327577, RTT: 5.754698877749236,   Number of Attempts: 1
+seq#: 84 , Time Generated: 1680717143.5294213, RTT: 5.754698877749236,   Number of Attempts: 1
+seq#: 85 , Time Generated: 1680717143.6309862, RTT: 5.7499459449281085,   Number of Attempts: 1
+seq#: 86 , Time Generated: 1680717143.6310034, RTT: 5.743404229482016,   Number of Attempts: 1
+seq#: 87 , Time Generated: 1680717143.8331866, RTT: 5.743404229482016,   Number of Attempts: 1
+seq#: 88 , Time Generated: 1680717143.9345987, RTT: 5.741022071059869,   Number of Attempts: 2
+seq#: 89 , Time Generated: 1680717143.9346101, RTT: 5.741022071059869,   Number of Attempts: 1
+seq#: 90 , Time Generated: 1680717144.1366522, RTT: 5.694389343261719,   Number of Attempts: 1
+seq#: 91 , Time Generated: 1680717144.1366644, RTT: 5.694389343261719,   Number of Attempts: 1
+seq#: 92 , Time Generated: 1680717144.3389814, RTT: 5.645377963196998,   Number of Attempts: 1
+seq#: 93 , Time Generated: 1680717144.338996, RTT: 5.648227838369516,   Number of Attempts: 1
+seq#: 94 , Time Generated: 1680717144.540975, RTT: 5.648227838369516,   Number of Attempts: 1
+seq#: 95 , Time Generated: 1680717144.6424417, RTT: 5.622180003040241,   Number of Attempts: 1
+seq#: 96 , Time Generated: 1680717144.642467, RTT: 5.622180003040241,   Number of Attempts: 1
+seq#: 97 , Time Generated: 1680717144.6424813, RTT: 5.62447088736075,   Number of Attempts: 1
+seq#: 98 , Time Generated: 1680717144.642493, RTT: 6.989999250932174,   Number of Attempts: 1
+seq#: 99 , Time Generated: 1680717144.642504, RTT: 9.20508589063372,   Number of Attempts: 1
+[?2004h]0;karthik@LAPTOP-UK10GSOM: ~/sidda/sem6/CS3205/LAB4[01;32mkarthik@LAPTOP-UK10GSOM[00m:[01;34m~/sidda/sem6/CS3205/LAB4[00m$ exit
+[?2004lexit
+
+Script done on 2023-04-05 23:23:20+05:30 [COMMAND_EXIT_CODE="0"]

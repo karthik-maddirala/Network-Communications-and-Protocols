@@ -1,0 +1,20 @@
+HEADER:
+
+NAME: M.KARTHIK
+ROLL NO: CS20B048
+COURSE: CS3205 JAN 2023 SEMISTER
+LAB NUMBER : 4
+DATE OF SUBMISSION : 05-04-2023
+I confirm that the source file is entirely written by me without resorting to any dishonest means
+WEIBISTES that is used : i didn't used any wibesites i have done all by my own
+
+EXPERIENCE:
+    From this lab i have understood fully about how the data gets transferrend from client to the server
+    before i would have many doubts about how the packets are stored and how they retreive the data from the 
+    packets , but from this lab many doubts were cleared and also understood how the errors get corrected 
+    and before i aslo had doubts about while we are seeing youtube and many other the video keeps on buffering
+    and now i understood why they are like that .
+    finally , thankyou very much for giving this wonderfull assignments for us :)
+
+SUGGESTION:
+    There are no suggestions from my side , everything is good enough

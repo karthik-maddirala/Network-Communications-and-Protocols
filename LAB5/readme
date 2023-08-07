@@ -1,0 +1,8 @@
+How to run the programme?
+    just open the folder in the terminal and just type the command  "make run1" or "make run2"
+    and wait for 42 seconds  , and exit the programme (using ctl + C )
+
+How to compare the output ?
+    And see the output in the outputi.txt files , that containg the starting node , 
+    path form that node and the shortest path from that node to the all the other nodes
+    except itself
